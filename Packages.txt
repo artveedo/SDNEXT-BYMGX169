@@ -1,0 +1,7 @@
+aria2
+wget
+curl
+libgl1
+libglib2.0-0
+git-lfs
+python3-venv
